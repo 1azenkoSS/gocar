@@ -1,0 +1,14 @@
+.avatar {
+    width: 100px;
+}
+
+.user {
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+}
+.selectedPage {
+    font-weight: bold;
+
+}

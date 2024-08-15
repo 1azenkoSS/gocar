@@ -1,0 +1,10 @@
+.bg {
+    background-image: url('../black-bg.png');
+    background-size: cover;
+    color: aliceblue;
+    text-align: center;
+    justify-content: center;
+
+    display: flex;
+    align-items: center;
+}
